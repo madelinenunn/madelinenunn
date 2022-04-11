@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @madelinenunn
+- 👀 I’m interested in programming <3
+- 🌱 I’m currently learning html and css, javascript and c++ !! (beginner)
+- 📫 How to reach me maddynunn08@gmail.com
