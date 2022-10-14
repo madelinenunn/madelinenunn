@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @madelinenunn
-- 👀 I’m interested in programming <3
-- 🌱 I’m currently learning html and css, javascript and c++ !! (beginner)
-- 📫 How to reach me maddynunn08@gmail.com
+- 👀 I’m interested in programming (or atleast learning how to lmao0
+- 🌱 I’m currently learning javascript and c++ but know html and css !! (beginner)
+- 📫 Reach me maddynunn08@gmail.com :)
